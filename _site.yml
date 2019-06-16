@@ -1,4 +1,5 @@
 name: "ravi-mandal"
+output_dir: "."
 navbar:
   title: "Ravi Mandal"
   left:
