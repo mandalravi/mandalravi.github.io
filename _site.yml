@@ -1,0 +1,8 @@
+name: "ravi-mandal"
+navbar:
+  title: "Ravi Mandal"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Regression"
+      href: Regression Problem - Boston Hosuing dataset.html
